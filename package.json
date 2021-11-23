@@ -1,0 +1,26 @@
+{
+  "name": "use-cookie-consent-docs",
+  "version": "1.0.0",
+  "description": "Documentation for useCookieConsent hook",
+  "main": "index.js",
+  "repository": "https://github.com/use-cookie-consent/use-cookie-consent-docs",
+  "author": "Antoni Silvestrovic <antoni.silvestrovic@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "lint": "next lint",
+    "test": "next test"
+  },
+  "dependencies": {
+    "next": "^12.0.4",
+    "nextra": "^1.1.0",
+    "nextra-theme-docs": "^1.2.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.36",
+    "typescript": "^4.5.2"
+  }
+}

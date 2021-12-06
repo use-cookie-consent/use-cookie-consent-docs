@@ -10,7 +10,7 @@ This is a repository containing the docs hosted on [use-cookie-consent.js.org](h
 
 ## Built with
 
-This documentation is built with [Nextra](https://github.com/shuding/nextra).
+This documentation is using [Nextra](https://github.com/shuding/nextra).
 
 ## Contributors
 

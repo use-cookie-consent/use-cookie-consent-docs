@@ -5,5 +5,5 @@ const withNextra = require("nextra")({
 });
 
 module.exports = withNextra({
-  basePath: "/use-cookie-consent",
+  basePath: "/use-cookie-consent-docs",
 });

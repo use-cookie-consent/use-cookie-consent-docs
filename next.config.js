@@ -4,4 +4,6 @@ const withNextra = require("nextra")({
   // optional: add `unstable_staticImage: true` to enable Nextra's auto image import
 });
 
-module.exports = withNextra();
+module.exports = withNextra({
+  basePath: "/use-cookie-consent",
+});

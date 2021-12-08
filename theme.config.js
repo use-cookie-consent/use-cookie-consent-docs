@@ -1,6 +1,6 @@
 export default {
-  projectLink: "https://github.com/shuding/nextra", // GitHub link in the navbar
-  docsRepositoryBase: "https://github.com/shuding/nextra/blob/master", // base URL for the docs repository
+  projectLink: "https://github.com/use-cookie-consent", // GitHub link in the navbar
+  docsRepositoryBase: "https://github.com/use-cookie-consent/use-cookie-consent-docs/blob/master", // base URL for the docs repository
   titleSuffix: " – useCookieConsent",
   nextLinks: true,
   prevLinks: true,

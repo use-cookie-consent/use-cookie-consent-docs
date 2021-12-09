@@ -4,9 +4,9 @@ This is a repository containing the docs hosted on [use-cookie-consent.js.org](h
 
 ## Running locally
 
-1. Clone the repo
-2. run `yarn install`
-3. run `yarn dev`
+1. `git clone https://github.com/use-cookie-consent/use-cookie-consent-docs.git`
+2. `yarn install`
+3. `yarn dev`
 
 ## Packages
 

@@ -27,6 +27,10 @@ This documentation is using [Nextra](https://github.com/shuding/nextra).
 
 - [Antoni Silvestrovic](https://github.com/bring-shrubbery)
 
+## Discussions and Questions
+
+For non-issues please consider joining our Discord [here](https://discord.gg/pa8epvzJbb)!
+
 ## License
 
 [MIT](https://github.com/use-cookie-consent/use-cookie-consent-docs/blob/main/LICENSE)

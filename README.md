@@ -2,6 +2,8 @@
 
 This is a repository containing the docs hosted on [use-cookie-consent.js.org](https://use-cookie-consent.js.org/).
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bring.shrubbery)
+
 ## Running locally
 
 1. `git clone https://github.com/use-cookie-consent/use-cookie-consent-docs.git`

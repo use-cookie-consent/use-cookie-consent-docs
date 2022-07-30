@@ -1,4 +1,8 @@
-# Introduction
+---
+title: Introduction
+description: Docs intro. Gettings started.
+layout: ../../layouts/MainLayout.astro
+---
 
 When adding a cookie consent dialog to a website, developers are usually faced with 2 options:
 

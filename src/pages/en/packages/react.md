@@ -1,6 +1,8 @@
-# useCookieConsent for React apps
-
-## Intro
+---
+title: "@use-cooke-consent/react"
+description: The React.js version of use-cookie-consent hook.
+layout: ../../../layouts/MainLayout.astro
+---
 
 ## Install
 
@@ -66,10 +68,10 @@ const CookiesPreview = () => {
   return (
     <div>
       <div>
-        {`Third-party cookies ${consent.thirdParty ? 'approved' : 'rejected'}`}
+        {`Third-party cookies ${consent.thirdParty ? "approved" : "rejected"}`}
       </div>
       <div>
-        {`First-party cookies ${consent.firstParty ? 'approved' : 'rejected'}`}
+        {`First-party cookies ${consent.firstParty ? "approved" : "rejected"}`}
       </div>
     </div>
   );

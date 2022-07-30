@@ -1,4 +1,8 @@
-# Introduction
+---
+title: Introduction
+description: Docs intro. Gettings started.
+layout: ../../layouts/MainLayout.astro
+---
 
 When adding a cookie consent dialog to a website, developers are usually faced with 2 options:
 
@@ -11,5 +15,5 @@ This package aims to solve the problem of choosing between the two half-solution
 
 Depending on the stack you're using, you might want to use different packages:
 
-- If you're using [React.js](https://reactjs.org/), check out [react package documentation](/packages/react)
-- If you're using some other framework or writing project in pure JavaScript, check out [core package documentation](/packages/core)
+- If you're using [React.js](https://reactjs.org/), check out [react package documentation](/use-cookie-consent-docs/packages/react)
+- If you're using some other framework or writing project in pure JavaScript, check out [core package documentation](/use-cookie-consent-docs/packages/core)

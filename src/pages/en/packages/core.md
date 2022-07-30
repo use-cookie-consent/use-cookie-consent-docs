@@ -1,8 +1,8 @@
-import Callout from "nextra-theme-docs/callout";
-
-# Framework agnostic useCookieConsent hook
-
-## Intro
+---
+title: "@use-cooke-consent/core"
+description: The framework agnostic version of use-cookie-consent hook.
+layout: ../../../layouts/MainLayout.astro
+---
 
 ## Install
 
@@ -41,15 +41,7 @@ export const YourComponent = () => {
 };
 ```
 
-<Callout emoji="⚠️">
-  Note that this approach does not inform other `useCookieConsent` invocations
-  about a change. This means that if you have two `useCookieConsent` functions,
-  they will have the same state, but if you run `acceptAllCookies` on one of
-  them, the other will not be updated without a page refresh, or re-running the
-  function. <br />
-  If you need to use this function aross different components you should use utilities
-  provided in one of the library-specific packages.
-</Callout>
+> ⚠️ **Note that** this approach does not inform other `useCookieConsent` invocations about a change. This means that if you have two `useCookieConsent` functions, they will have the same state, but if you run `acceptAllCookies` on one of them, the other will not be updated without a page refresh, or re-running the function. <br />If you need to use this function aross different components you should use utilities provided in one of the library-specific packages.
 
 ## API
 

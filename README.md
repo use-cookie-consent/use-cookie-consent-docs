@@ -1,5 +1,7 @@
 # Astro Starter Kit: Docs Site
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bring.shrubbery)
+
 ## Packages
 
 The packages that are marked as `Planned` are still not published - use `@use-cookie-consent/core` instead, as it provides all the functionality you need, but without framework-specific goodies.
@@ -162,6 +164,10 @@ If you'd prefer to remove Algolia's search and replace it with your own, check o
 ## Contributors
 
 - [Antoni Silvestrovic](https://github.com/bring-shrubbery)
+
+## Discussions and Questions
+
+For non-issues please consider joining our Discord [here](https://discord.gg/pa8epvzJbb)!
 
 ## License
 

@@ -1,5 +1,5 @@
 ---
-title: "@use-cooke-consent/react"
+title: "@use-cookie-consent/react"
 description: The React.js version of use-cookie-consent hook.
 layout: ../../../layouts/MainLayout.astro
 ---

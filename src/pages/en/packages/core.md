@@ -1,5 +1,5 @@
 ---
-title: "@use-cooke-consent/core"
+title: "@use-cookie-consent/core"
 description: The framework agnostic version of use-cookie-consent hook.
 layout: ../../../layouts/MainLayout.astro
 ---

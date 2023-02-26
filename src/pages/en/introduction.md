@@ -15,5 +15,5 @@ This package aims to solve the problem of choosing between the two half-solution
 
 Depending on the stack you're using, you might want to use different packages:
 
-- If you're using [React.js](https://reactjs.org/), check out [react package documentation](/use-cookie-consent-docs/packages/react)
-- If you're using some other framework or writing project in pure JavaScript, check out [core package documentation](/use-cookie-consent-docs/packages/core)
+- If you're using [React.js](https://reactjs.org/), check out [react package documentation](/en/packages/react)
+- If you're using some other framework or writing project in pure JavaScript, check out [core package documentation](/en/packages/core)
